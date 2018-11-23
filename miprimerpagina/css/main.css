@@ -1,0 +1,77 @@
+body {
+    font-family: 'Dosis', sans-serif;
+}
+
+a, .rosa {
+	color: #C06C84;
+	font-size: 1.5em;
+}
+
+img {
+	max-width: 100%;
+}
+
+.dosis {
+	font-family: 'Dosis', sans-serif;
+}
+
+.espacio-arriba {
+	margin-top: 10px;
+}
+
+.espacio-derecha {
+	margin-right: 1em;
+}
+
+.grande {
+	font-size: 3em;
+}
+
+.inline-block {
+	float: none;
+	display: inline-block;
+}
+
+.no-lista {
+	margin: 0px;
+	padding: 0px;
+}
+
+.no-lista li {
+	list-style-type: none;
+}
+
+.padding-largo {
+	padding: 5px 10px;
+}
+
+.retraso1 {
+	-webkit-animation-delay: 1s;
+	-moz-animation-delay: 1s;
+	animation-delay: 1s;
+}
+
+.retraso2 {
+	-webkit-animation-delay: 2s;
+	-moz-animation-delay: 2s;
+	animation-delay: 2s;
+}
+
+.retraso3 {
+	-webkit-animation-delay: 3s;
+	-moz-animation-delay: 3s;
+	animation-delay: 3s;
+}
+
+.se-rosa {
+	background-color: #FAD9D3;
+}
+
+.quitar-float {
+	float: none;
+}
+
+.vete-arriba {
+	vertical-align: top;
+}
+
